@@ -1,0 +1,472 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bott",
+				"margin-bottom"
+			],
+			[
+				"ri",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"FON",
+				"font-family"
+			],
+			[
+				"MAR",
+				"margin"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"i",
+				"im\timport"
+			],
+			[
+				"hardi",
+				"hardik_1"
+			],
+			[
+				"mo",
+				"model2"
+			],
+			[
+				"name",
+				"name1"
+			],
+			[
+				"get",
+				"getText"
+			],
+			[
+				"txt",
+				"txt1"
+			],
+			[
+				"t",
+				"txt2"
+			],
+			[
+				"J",
+				"JPanel"
+			],
+			[
+				"Ja",
+				"JPanel"
+			],
+			[
+				"lenght",
+				"length"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"p",
+				"parseDouble"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"jf",
+				"Jfl2"
+			],
+			[
+				"set",
+				"setText"
+			],
+			[
+				"as",
+				"ass9"
+			],
+			[
+				"Jl",
+				"Jlabel"
+			],
+			[
+				"u",
+				"uname"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"Sc",
+				"Scanner"
+			],
+			[
+				"im",
+				"FileInputStream"
+			],
+			[
+				"d",
+				"DataInputStream"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"em",
+				"emp_information"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/PHPlessons/deshboard.CSS",
+		"/C/xampp/htdocs/PHPlessons/deshboard.html",
+		"/C/xampp/htdocs/CODELGNITER/application/controllers/pages.php",
+		"/C/xampp/htdocs/CODELGNITER/application/config/config.php",
+		"/C/xampp/htdocs/CODELGNITER/application/config/.htaccess",
+		"/H/Project Work/website/css/demowed/1.html",
+		"/H/Project Work/website/css/demowed/about.html",
+		"/H/Project Work/website/css/demowed/index.html",
+		"/H/Project Work/website/css/demowed/script.js",
+		"/H/Project Work/website/css/demowed/site.css",
+		"/H/Project Work/website/css/demowed/site",
+		"/H/Project Work/website/index.html",
+		"/H/Project Work/website/css/STYLE.CSS",
+		"/H/Project Work/website/css/site.css",
+		"/H/Project Work/website/css/script.js",
+		"/H/Project Work/website/css/index.html",
+		"/H/Project Work/website/css/about.html",
+		"/H/Project Work/website/STYLE.CSS",
+		"/H/HARDIK_SLICA/sem-5/index.html",
+		"/H/HARDIK_SLICA/sem-5/Advance_java/socket/server_1.java",
+		"/H/HARDIK_SLICA/sem-5/Advance_java/socket/server_fact.java",
+		"/H/HARDIK_SLICA/sem-5/Advance_java/socket/client_fact.java",
+		"/H/HARDIK_SLICA/sem-5/Advance_java/socket/client_1.java",
+		"/H/HARDIK_SLICA/sem-5/Advance_java/socket/server.java",
+		"/H/HARDIK_SLICA/sem-5/Advance_java/socket/client.java",
+		"/C/xampp/htdocs/PHPlessons/1.php",
+		"/C/xampp/htdocs/PHPlessons/opearator.php",
+		"/C/xampp/htdocs/PHPlessons/login.html",
+		"/C/xampp/htdocs/PHPlessons/login.php",
+		"/C/xampp/htdocs/PHPlessons/CALC.PHP",
+		"/C/xampp/htdocs/PHPlessons/kamlesh.php",
+		"/H/HARDIK SLICA/sem 1/Semester 1 syllabus.pdf",
+		"/H/HARDIK SLICA/sem 1/FY BCA/SEM-1/html/unit 4/3.html",
+		"/C/xampp/htdocs/PHPlessons/emp_information.php",
+		"/C/xampp/htdocs/PHPlessons/emp_information.CSS",
+		"/C/xampp/htdocs/PHPlessons/index.php",
+		"/C/xampp/htdocs/PHPlessons/emp_information.html",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/ass2_14_b.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/XYZ/A10.JAVA",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/XYZ/bhavindemo.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/ass2_10.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/ass14_hp.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/ass2_12 (2).java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/chese.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/ass2_11_dhruvam.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/JFrame11_1_giri.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/A2_11_giri.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/ass2_9.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/ass2_8.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/Ass2_7.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ch15_17_18/calc.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ch15_17_18/ch16_2.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ch15_17_18/ch16_1.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass2_10.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/rar_ass2_hardikprajapati/ass2_7calc.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass2_7calc.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ch16_1.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ch15_17_18/ch15_6_b.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ch15_17_18/ch15_6.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ch15_17_18/ch15_3.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ch15_17_18/ch15_4.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ch15_17_18/ch15_5.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass2_1.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/JFrame_ChessBoard.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass_cheseboard.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ch15_1.java",
+		"/H/HARDIK SLICA/sem-4/java/1-110/81-90/85.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/All_1.java",
+		"/H/HARDIK SLICA/sem-4/java/insertion.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass2_14_b.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass2_12.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass2_8.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/a8.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass2_3_login.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/LoginForm.java",
+		"/H/HARDIK SLICA/sem-4/java/1-110/11-20/17.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass14_hp.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass14_a.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/ass2_14_b.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/fd.html",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass2_11.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/hardik.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/All.JAVA",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass8.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass9.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass_8.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass9_2.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/COLOR_5_6.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/Japplet1.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/color255.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/ass2_2.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/applet_ass2/Ass2_6.java",
+		"/H/HARDIK SLICA/sem-5/Advance_java/ass11.java"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<tr>",
+			"setSize",
+			"Jfl2",
+			"setVisble",
+			");\n",
+			" JCheckBox",
+			");}",
+			"c.add"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"setVisible",
+			"JRadioButton",
+			"add"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "view_area.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

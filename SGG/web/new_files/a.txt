@@ -1,0 +1,16 @@
+///font icon mate head ma nakhvi likn//
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<?php include './new_files/nevigation.php';?>
+
+
+
+ if(isset($_GET['hardik']))
+      {
+        $linkvalue=$_GET['hardik'];
+        if($linkvalue==$hp)
+        {
+          echo $hp;
+        }
+      }

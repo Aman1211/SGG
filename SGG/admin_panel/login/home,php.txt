@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>SGG(SHREE GURUKRUPA GLASS TRADERS)></title>
+<link rel="stylesheet" href="mainstyle.css" media="all"/>
+</head>
+<body>
+<div class="main_wrapper">
+<div class="header_wrapper">
+<img id="logo" src="sgg.jpg"/>
+<img id="banner" src="glass.gif"/>
+</div>
+<div class="menubar"></div>
+<div class="content_wrapper">
+<div id="slidebar"></div>
+<div id="content_area"></div>
+</div>
+
+<div id="footer"></div>
+</div>
+</body>
+</html>

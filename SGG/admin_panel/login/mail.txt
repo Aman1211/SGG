@@ -1,0 +1,11 @@
+<?php 
+if(isset($_POST['submit']))
+{
+	$to="prajapatihardik4199@outlook.com";
+	$subject="SGG Conformation";
+	$message="Your account has been created";
+	$header='From: SGG'; 
+	mail($to,$subject,$message,$header);
+	echo "Mail Sent";
+}
+?>

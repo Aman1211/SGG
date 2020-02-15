@@ -1,0 +1,9 @@
+<?php
+class car{
+function car(){
+	$this->model="VW";
+	}
+}
+$h=new car();
+echo "$h->model;
+?>	

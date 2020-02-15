@@ -1,0 +1,136 @@
+#container{
+	width:100%;
+	min-height:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:11px;
+	margin-bottom:21px;
+}
+#header{
+	height:150px;
+	background:url("gif.gif");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+#logo{
+	float:left;
+	height:100%;
+	width:50%;
+}
+#banner{
+	height:100%;
+	width:50%;
+}
+#menu{
+	height:75px;
+	background-color:rgba(50,80,150,.5);
+	color:white;
+}
+#menu ul{
+	list-style:none;
+}
+#menu ul li a{
+	text-decoration:none;
+	font-size:20px;
+	margin-left:2px;
+	margin-right:2px;
+	margin-left:2px;
+	margin-top:2px;
+	float:left;
+	color:white;
+	padding-left:2px;
+	padding-right:3px;
+	padding-top:15px;
+}
+#sidebar{
+	width:15%;
+	height:100vh;
+	float:left;
+	background:rgba(255,255,255,.5);
+}
+#mainbody{
+	width:85%;
+	height:100vh;
+	background:rgba(0,0,0,.5);
+	float:right;
+}
+#footer{
+	height:100px;
+	background:dodgerblue;
+	clear:both;
+}
+#menu2{
+	height:75px;
+	background-color:rgba(50,80,150,.5);
+	color:white;
+}
+#menu2 .search{
+	float:left;
+}
+
+#menu2 .search input[type=text] {
+  padding: 15px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  width:200px;
+  float:left;
+}
+#menu2 .search button {
+  padding: 23.5px 29px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+#menu2 .log ul{
+	list-style:none:
+	
+
+}
+#menu2 ul li a{
+	text-decoration:none;
+	font-size:20px;
+	
+	float:right;
+	color:white;
+	padding-left:2px;
+	padding-right:3px;
+	padding-top:15px;
+-}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: Dodgerblue;}
+.btn{
+	float:left;
+	 width:100px;
+	  background-color:DeepSkyBlue;
+	  margin:5px;
+    color: white;
+	margin-top:2px;
+    padding: 25px;
+    font-size: 12px;
+    border: none;
+	width:100px;
+	 
+}

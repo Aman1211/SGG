@@ -1,0 +1,17 @@
+table{
+	background:rgba(255,255,255,.4);
+}
+td h2{
+	font-weight:bold;
+}
+th{
+	font-weight:bold;
+	border:2px groove;
+}
+tr{
+	border:2px groove;
+}
+td{
+	border:1px groove;
+	font-weight:bold;
+}

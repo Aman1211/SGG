@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2018/12/25" author="e.World Technology Ltd.">
+  <project id="{F08CCDDC-FAC2-4A5E-8448-7129975FD6F3}" file="" name="project2" product="PHPReportMaker" version="11.0" datetime="2018/12/25 23:01:31" languagefolder="phprptlang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="area" name="area" caption="area" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="brand" name="brand" caption="brand" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="category" name="category" caption="category" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="city" name="city" caption="city" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="company" name="company" caption="company" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="complain" name="complain" caption="complain" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="customer_requirement" name="customer_requirement" caption="customer requirement" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="design" name="design" caption="design" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="estimate" name="estimate" caption="estimate" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="estimate_labour" name="estimate_labour" caption="estimate labour" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="feedback" name="feedback" caption="feedback" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="labour" name="labour" caption="labour" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="labour_type" name="labour_type" caption="labour type" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="login" name="login" caption="login" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="payment_type" name="payment_type" caption="payment type" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="price_size" name="price_size" caption="price size" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product" name="product" caption="product" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="product_image" name="product_image" caption="product image" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="purchase" name="purchase" caption="purchase" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="purchase_detail" name="purchase_detail" caption="purchase detail" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="purchase_payment" name="purchase_payment" caption="purchase payment" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="purchase_return" name="purchase_return" caption="purchase return" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="purchase_return_details" name="purchase_return_details" caption="purchase return details" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="ratings" name="ratings" caption="ratings" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="request" name="request" caption="request" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="sales" name="sales" caption="sales" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="sales_detail" name="sales_detail" caption="sales detail" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="sales_labour" name="sales_labour" caption="sales labour" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="sales_payment" name="sales_payment" caption="sales payment" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="ststus" name="ststus" caption="ststus" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="subcategory" name="subcategory" caption="subcategory" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="supplier" name="supplier" caption="supplier" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="usercategory" name="usercategory" caption="usercategory" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view1" name="view1" caption="view 1" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>

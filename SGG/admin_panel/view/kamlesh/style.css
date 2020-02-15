@@ -1,0 +1,12 @@
+style.css
+
+This file contains the styling elements for the search engine. Create a file named style.css and paste the following code in it:
+
+
+a:hover {
+
+   cursor: pointer;
+
+   background-color: yellow;
+
+}

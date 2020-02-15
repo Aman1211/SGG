@@ -1,0 +1,162 @@
+.w3-display-container{
+	height:2200px;
+	background:rgba(0,0,0,.5);
+}
+ .w3-display-top
+{
+	width:auto;
+	height:150px;
+	background:url("gif.gif");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+.content{
+	width:auto;
+	height:1200px;
+	background-color:rgba(0,0,0);
+}
+.content img{
+
+} 
+ .w3-display-top h1{
+	text-decoration:underline;
+	font-weight:bold;
+	padding:1px;
+	font-style:italic;
+	color:aqua;
+	text-align:center;
+	font-size:50px;
+	}
+.w3-panel{
+	background:rgba(0,0,0,.3);
+	padding:1px;
+	width:auto;
+	height:100px;
+}
+.menubar{
+    background-color: rgba(0,0,0,.5);
+	color:white;
+	height:auto;
+	}
+
+	.dropbtn {
+    background-color:DeepSkyBlue;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+	width:100px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: Dodgerblue;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.sidebar {
+  height:auto;
+  width: 200px;
+  top:0;
+  left:0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 16px;
+}
+
+.sidebar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+}
+.sidebar ul{
+list-style:none;
+}
+.sidebar ul li
+{
+	padding:2px;
+margin:4px;
+}	
+.sidebar ul li:hover{
+	background-color:black;
+}
+.menubar .search-container {
+  float: right;
+}
+
+.menubar input[type=text] {
+  padding: 10px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+  width:200px;
+}
+
+.menubar .search-container button {
+  float: right;
+  padding: 15px 25px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.menubar .search-container button:hover {
+  background: #ccc;
+}
+
+@media screen and (max-width: 600px) {
+   .search-container {
+    float: none;
+  }
+  .menubar input[type=text], .menubar .search-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: auto;
+    margin: 0;
+    padding: 14px;
+  }
+  .menubar input[type=text] {
+    border: 1px solid #ccc;  
+  }
+}
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+
+}
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+.info {color: dodgerblue;}

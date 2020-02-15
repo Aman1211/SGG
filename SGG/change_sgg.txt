@@ -1,0 +1,17 @@
+1)if user rating jo bii de vo display else avg rating
+2)admin panel in blank field validation using dom,ajax php book in ch 4 wise
+3)home page in product apge in pagination
+4)quotation in a4 size pdf design
+5)home page in my order in invoice pdf display
+6)implement some security
+7)reg in use admin panel json file (edit time jo use kii thii na vo file use kar 	dena)
+8)report dekh lena ek bar
+9)maii product ki details bej dunga tu dekh lena ohkk
+10)or ha itna aj pura kar doto night maii bej dena 
+	maii aj free hu. to dekh lunga
+
+
+ppt sequence 
+1)kamlesh 	(visitor,admin login,admin 25%)
+2)aman		(admin full,report)
+3)hardik		(cutomer site wholle,requirement ,my order,invoice)

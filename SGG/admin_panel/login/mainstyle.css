@@ -1,0 +1,94 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;}
+	body{
+	background-image:url("container.jpg");
+	background-repeat:no-repeat;
+	}
+	.main_wrapper{
+	width:1000px;
+	height:auto;
+	margin:auto;
+	}
+	.header_wrapper{
+	text-align: center;
+    background-image:url("gif.gif");
+	margin:auto;
+	}
+	#logo{float:left;}
+	#banner{float:right;}
+	.content_wrapper{
+	
+	width:1000px;
+	height:800px;
+	margin:auto;
+	background:rgba(255,0,0,.5);
+	}
+	#content_area{
+	width:800px;
+	height:800px;
+	float:right;
+	background:rgba(0,255,0,.5);
+	}
+	#sidebar{
+	width:200px;
+	height:800px;
+	background:rgba(0,0,255,.5);
+	float:left;
+	}
+	#footer{
+	width:1000px;
+	height:100px;
+	background:rgba(0,0,255,.3);
+	clear:both;
+	}
+	.menubar{
+    background-color: #333;
+	color:white;
+	}
+	img{
+		height:100px;
+		width:500px;
+	}
+
+	#menu{
+		padding:0;
+		margin:0;
+		line-height:35px;
+	}
+	#menu li {
+		list-style:none;
+		display:inline;
+	}
+	#menu a{
+		 float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	}
+	#menu a:hover {
+    background-color: #ddd;
+    color: black;
+}

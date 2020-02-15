@@ -1,0 +1,27 @@
+body{
+    background: #eee;
+}
+.container{
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+    padding: 40px;
+}
+.star{
+    color:#ccc;
+    cursor: pointer;
+    transition: all 0.2s linear;
+}
+.star-checked{
+    color:red;
+}
+#result{
+    display:none;
+}
+b.r{
+    color:red;
+}
+b.g{
+    color:green;
+}

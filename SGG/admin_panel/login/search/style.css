@@ -1,0 +1,25 @@
+body{
+	background-color:red;
+	font-family:arial;
+}
+.container{
+	width:900px;
+	background-color:#fff;
+	padding:30px;
+}
+.article-container
+{
+		paddding-bottom:30px;
+		width:100%;
+}
+input{
+	padding:0px 20px;
+	width:300px;
+	height:40px;
+	font-size:22px;
+}
+button{
+	width:100px;
+	height:44px;
+	font-size:22px;
+}

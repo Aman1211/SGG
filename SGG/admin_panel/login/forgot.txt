@@ -1,0 +1,51 @@
+<html>
+<head>
+<style>
+body{ 
+height=100;
+background-position:center;
+background-size:cover;
+background-repeat:no-repeat;
+font-family:Arial;}
+form{border:3px solid grey}
+input[type=text],
+input[type=password]{
+	width=100%;
+	padding:12px 40px;
+	margin:8px 0;
+	border:1px solid black;
+	font-family:"Times New Roman";
+	font-weight:bold;
+	font-size:13px;
+	}
+button{
+	background-color:rgba(50,80,150);
+	color:white;
+	padding:10px 30px;
+	margin:8px 0;
+	width:auto;
+	
+}
+label{
+	padding:16x 20x;
+	font-family:"Times New Roman";
+	font-weigth:bold;
+	font:size:15px;
+	}
+.cancelbtn{
+	width:auto;
+	padding:10px 30px;
+	background-color:rgba(50,80,150);
+	}
+.container{
+text-align:center;
+margin:110px 500px;
+padding:25px;
+width:250px;
+height:330px;
+border:3px solid black;
+background:grey;
+}
+</style>
+</head>
+<body background="glass1.jpj">
